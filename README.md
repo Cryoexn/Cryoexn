@@ -1,0 +1,4 @@
+- Hi, I’m David Pitoniak (@Cryoexn)
+- I’m interested in expanding my knowledge in software development.
+- I’m currently learning ...
+- You can reach me at davidpitoniak32@gmail.com
