@@ -1,4 +1,4 @@
 - Hi, I’m David Pitoniak (@Cryoexn)
 - I’m interested in expanding my knowledge in software development.
-- I’m currently learning ...
+- I’m currently learning threading and multicore programming.
 - You can reach me at davidpitoniak32@gmail.com
